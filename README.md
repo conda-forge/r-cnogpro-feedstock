@@ -1,11 +1,11 @@
-About r-cnogpro
-===============
+About r-cnogpro-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cnogpro-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=CNOGpro
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cnogpro-feedstock/blob/main/LICENSE.txt)
 
 Summary: Methods for assigning copy number states and breakpoints in resequencing experiments of prokaryotic organisms.
 
